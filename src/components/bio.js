@@ -37,7 +37,7 @@ function Bio() {
               Personal blog by {' '}
               <a href={`https://twitter.com/${social.twitter}`} target="_blank" rel="noopener noreferrer">
                 {author}
-              </a>. A Front-End Web Development blog for all.
+              </a>.
             </p>
           </Container>
         )
