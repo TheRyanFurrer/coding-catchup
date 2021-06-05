@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Gatsby Starter Personal Blog`,
-    author: `Gatsby`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Coding Catchup`,
+    author: `Ryan Furrer`,
+    description: `A Front-End Web Development blog for all`,
+    siteUrl: `https://theryanfurrer-blog.netlify.app/blog/`,
     social: {
-      twitter: `gatsbyjs`,
+      twitter: `theryanfurrer`,
     },
   },
   plugins: [
@@ -108,7 +108,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // edit below
-        // trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `G-EPQZF826P7`,
       },
     },
     {
@@ -116,12 +116,12 @@ module.exports = {
       options: {
         name: `Gatsby Starter Blog`,
         short_name: `GatsbyJS`,
-        start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
+        start_url: `/blog`,
+        background_color: `#f2f2f2`,
+        theme_color: `#96E9D8`,
         display: `minimal-ui`,
         // edit below
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/logo.png`,
       },
     },
     {
