@@ -23,6 +23,7 @@ class Layout extends React.Component {
           <Link
             style={{
               boxShadow: `none`,
+              fontFamily: 'Poppins, sans-serif',
               textDecoration: `none`,
               color: `inherit`,
             }}
@@ -36,7 +37,7 @@ class Layout extends React.Component {
       header = (
         <h3
           style={{
-            fontFamily: `Montserrat, sans-serif`,
+            fontFamily: `Poppins, sans-serif`,
             marginTop: 0,
           }}
         >
@@ -67,9 +68,9 @@ class Layout extends React.Component {
           <main>{children}</main>
         </div>
         <Footer>
-          © {new Date().getFullYear()}, Built with
+          © {new Date().getFullYear()}, Built by
           {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <a href="https://www.theryanfurrer.dev" target="_blank" rel="noopener noreferrer">Ryan Furrer</a>
         </Footer>
       </Wrapper>
     )

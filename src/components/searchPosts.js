@@ -27,8 +27,7 @@ const SearchBar = styled.div`
     display: flex;
     flex: 100%;
     height: 100%;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: "Open Sans", Arial, sans-serif;
     font-size: 16px;
     background-color: transparent;
     border: none;
