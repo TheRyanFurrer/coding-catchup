@@ -25,7 +25,7 @@ function Bio() {
               alt={author}
               style={{
                 marginRight: rhythm(1 / 2),
-                marginBottom: 0,
+                marginBottom: rhythm(1),
                 minWidth: 50,
                 borderRadius: `100%`,
               }}
@@ -38,6 +38,7 @@ function Bio() {
               <a href={`https://twitter.com/${social.twitter}`} target="_blank" rel="noopener noreferrer">
                 {author}
               </a>.
+              <br />A Front-End Web Development blog for all
             </p>
           </Container>
         )

@@ -1,15 +1,15 @@
 import Typography from "typography"
 import fairyGatesTheme from 'typography-theme-fairy-gates'
 
-// Wordpress2016.overrideThemeStyles = () => {
-//   return {
-//     "a.gatsby-resp-image-link": {
-//       boxShadow: `none`,
-//     },
-//   }
-// }
+fairyGatesTheme.overrideThemeStyles = () => {
+  return {
+    "a.gatsby-resp-image-link": {
+      boxShadow: `none`,
+    },
+  }
+}
 
-// delete Wordpress2016.googleFonts
+// delete fairyGatesTheme.googleFonts
 
 const typography = new Typography(fairyGatesTheme)
 

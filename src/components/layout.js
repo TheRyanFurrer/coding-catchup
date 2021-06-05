@@ -7,7 +7,7 @@ import { rhythm, scale } from "../utils/typography"
 class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props
-    const rootPath = `${__PATH_PREFIX__}/`
+    const rootPath = `${__PATH_PREFIX__}/blog/`
     const blogPath = `${__PATH_PREFIX__}/blog/`
     let header
 
@@ -68,9 +68,10 @@ class Layout extends React.Component {
           <main>{children}</main>
         </div>
         <Footer>
-          © {new Date().getFullYear()}, Built by
+          © {new Date().getFullYear()}
           {` `}
           <a href="https://www.theryanfurrer.dev" target="_blank" rel="noopener noreferrer">Ryan Furrer</a>
+          <p><a href="http://www.twitter.com/theryanfurrer" target="_blank" rel="noopener noreferrer">Twitter</a></p>
         </Footer>
       </Wrapper>
     )
