@@ -26,7 +26,7 @@ For me right now, I need to get into a career I enjoy and can provide me and my 
 
 **My #1 goal is to become a Front-End Web Developer**
 
-##So what's next? 
+## So what's next? 
 The title of this blog post coincides with something I did to help keep myself even more accountable - I was publicly keeping myself accountable over on [Twitter](https://twitter.com/TheRyanFurrer/status/1404629337094119430?s=20) to up the ante for myself for the next 30 days, however, I think it's time to join the #100DaysOfCode train. Yes I'm in [dip.chat](http://dip.chat/) but I want more than that - I also hope that in continuing to be active in the tech Twitter space as well as writing again I can being to build a brand for myself. 
 
 I plan on blogging weekly summaries of the previous week's activities as well as things I'm learning to give back to the community so be sure to follow me on [Twitter](https://twitter.com/TheRyanFurrer) if you are interested in seeing more and thank you for reading.
