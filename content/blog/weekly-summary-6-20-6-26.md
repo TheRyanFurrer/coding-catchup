@@ -21,15 +21,15 @@ This all works with my personal goal of studying/coding 2 hours per day. I would
 
 So without further adieu let's get into this week's recap!
 
-## Monday, June 21st
+## Weekly Recap
+
+### Monday, June 21st
 
 I had to cancel my coding plans at the last minute due to plans being made for me, unfortunately. As much as I try and control every part of my day that is very much impossible some days - especially when your brother is visiting from out of town.
 
-## Tuesday, June 22nd
+### Tuesday, June 22nd
 
 I spent my lunch hour studying and reviewing JavaScript on [Codeacademy](https://www.codecademy.com/) Go as I had plans this evening with a friend out of town. It is unfortunate that this was 2 days in a row but sometimes that's how it goes...
-
-## Weekly Recap
 
 ### Wednesday, June 23rd
 
