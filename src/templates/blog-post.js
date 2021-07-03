@@ -6,6 +6,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
+import Revue from "../components/revue";
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -68,6 +69,7 @@ class BlogPostTemplate extends React.Component {
             )}
           </li>
         </ul>
+        <Revue />
       </Layout>
     )
   }
