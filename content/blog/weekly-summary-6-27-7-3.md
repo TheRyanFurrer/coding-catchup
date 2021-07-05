@@ -4,6 +4,8 @@ date: 2021-07-05T16:30:50.875Z
 title: "Weekly Summary: 6/27 - 7/3 "
 description: My Journey to a Web Developer between 6/27/21 and 7/3/21
 ---
+![Weekly Summary: 6/27 - 7/3](../assets/cover-image.png "Cover image")
+
 Welcome to the 2nd installment in my "Weekly Summary" series where I provide quick recaps for what I worked on the previous week to help keep myself accountable. This is being posted a day later than usual as 7/4 was Independence Day for us Americans. 
 
 First, let's go over my weekly schedule:
@@ -38,9 +40,9 @@ Tuesday was a *very* productive night despite not originally being able to focus
 * Styled contact form and made it response
 * Added a success page visitors will be greeted with after sending me an email via the contact form and styled it to include links to the home page, my Twitter, or my Blog.
 
-How did I get all this done despite not feeling like it? The 5-minute rule.
+How did I get all this done despite not feeling like it? [The 5-minute rule](https://twitter.com/TheRyanFurrer/status/1410059609105178629?s=20).
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">2/3<br>The 5-minute rule. <br><br>This is something I learned from <a href="https://twitter.com/mattdavella?ref_src=twsrc%5Etfw">@mattdavella</a> and it has become invaluable to me. <br><br>The 5-minute rule is simply this: <br>If there is something you should be doing/want to do but can’t seem to focus/start, promise yourself you’ll do it for just 5 minutes.</p>&mdash; Ryan Furrer (@TheRyanFurrer) <a href="https://twitter.com/TheRyanFurrer/status/1410059609105178629?ref_src=twsrc%5Etfw">June 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+![1/3 thread-emoji #100DaysOfCode #LearnInPublic Day 15/100 My new portfolio site is live! Please visit it at https://theryanfurrer.dev and let me know what you think - be honest. Built simply with #HTML and #CSS (SASS) because why not?](../assets/portfolio-tweet.png "Tweet about the \"5-minute rule\"")
 
 ## Wednesday, June 30th
 
@@ -73,9 +75,9 @@ In case you are interested to see what it looked like:
 
 Again, it's nothing I'm too worried about losing. What took more effort was un-doing the work I had done the night before in adding a mobile hamburger menu as I no longer needed it due to having more space in the navbar on mobile.
 
-After that and some other tidying up I felt it was ready for exposure to the entire world so I moved this page to be my `index.html` and Tweeted about it!
+After that and some other tidying up I felt it was ready for exposure to the entire world so I moved this page to be my `index.html` and [Tweeted](https://twitter.com/TheRyanFurrer/status/1411129302662402052?s=20) about it!
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/3 🧵 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/LearnInPublic?src=hash&amp;ref_src=twsrc%5Etfw">#LearnInPublic</a> <br>Day 15/100<br><br>My new portfolio site is live! Please visit it at <a href="https://t.co/sRNj6LfZ5N">https://t.co/sRNj6LfZ5N</a> and let me know what you think - be honest.<br><br>Built simply with <a href="https://twitter.com/hashtag/HTML?src=hash&amp;ref_src=twsrc%5Etfw">#HTML</a> and <a href="https://twitter.com/hashtag/CSS?src=hash&amp;ref_src=twsrc%5Etfw">#CSS</a> (SASS) because why not? <a href="https://t.co/DF8eJCXuAU">https://t.co/DF8eJCXuAU</a></p>&mdash; Ryan Furrer (@TheRyanFurrer) <a href="https://twitter.com/TheRyanFurrer/status/1411129302662402052?ref_src=twsrc%5Etfw">July 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+![1/3 thread-emoji #100DaysOfCode #LearnInPublic Day 15/100 My new portfolio site is live! Please visit it at https://theryanfurrer.dev and let me know what you think - be honest. Built simply with #HTML and #CSS (SASS) because why not?](../assets/portfolio-tweet.png "Tweet about launching new portfolio site.")
 
 If you'd care to check out my site please do - [The Ryan Furrer](https://theryanfurrer.dev/).
 
