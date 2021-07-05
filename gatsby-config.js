@@ -4,7 +4,7 @@ module.exports = {
     title: `Coding Catchup`,
     author: `Ryan Furrer`,
     description: `A Front-End Web Development blog for all`,
-    siteUrl: `https://codingcatchup.com/blog/`,
+    siteUrl: `https://codingcatchup.com/`,
     social: {
       twitter: `theryanfurrer`,
     },
