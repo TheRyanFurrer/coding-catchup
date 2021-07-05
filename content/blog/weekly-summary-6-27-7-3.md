@@ -2,7 +2,7 @@
 path: weekly-summary-6-27-7-3
 date: 2021-07-05T16:30:50.875Z
 title: "Weekly Summary: 6/27 - 7/3 "
-description: What I got up to the week of 6/27/21
+description: My Journey to a Web Developer between 6/27/21 and 7/3/21
 ---
 Welcome to the 2nd installment in my "Weekly Summary" series where I provide quick recaps for what I worked on the previous week to help keep myself accountable. This is being posted a day later than usual as 7/4 was Independence Day for us Americans. 
 
@@ -40,7 +40,7 @@ Tuesday was a *very* productive night despite not originally being able to focus
 
 How did I get all this done despite not feeling like it? The 5-minute rule.
 
-<blockquote class="twitter-tweet" data-conversation="none" data-theme="light"><p lang="en" dir="ltr">2/3<br>The 5-minute rule. <br><br>This is something I learned from <a href="https://twitter.com/mattdavella?ref_src=twsrc%5Etfw">@mattdavella</a> and it has become invaluable to me. <br><br>The 5-minute rule is simply this: <br>If there is something you should be doing/want to do but can’t seem to focus/start, promise yourself you’ll do it for just 5 minutes.</p>&mdash; Ryan Furrer (@TheRyanFurrer) <a href="https://twitter.com/TheRyanFurrer/status/1410059609105178629?ref_src=twsrc%5Etfw">June 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">2/3<br>The 5-minute rule. <br><br>This is something I learned from <a href="https://twitter.com/mattdavella?ref_src=twsrc%5Etfw">@mattdavella</a> and it has become invaluable to me. <br><br>The 5-minute rule is simply this: <br>If there is something you should be doing/want to do but can’t seem to focus/start, promise yourself you’ll do it for just 5 minutes.</p>&mdash; Ryan Furrer (@TheRyanFurrer) <a href="https://twitter.com/TheRyanFurrer/status/1410059609105178629?ref_src=twsrc%5Etfw">June 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Wednesday, June 30th
 
