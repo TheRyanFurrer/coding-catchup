@@ -2,7 +2,7 @@
 path: weekly-summary-6.20-6.26
 date: 2021-06-28T02:24:52.967Z
 title: "Weekly Summary: 6/20 - 6/26"
-description: My Journy to a Web Developer between 6/20/21 and 6/26/21
+description: My Journey to a Web Developer between 6/20/21 and 6/26/21
 ---
 ![](../assets/weekly-summary-6.20_6.26.png)
 
