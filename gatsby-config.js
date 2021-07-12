@@ -16,7 +16,6 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-twitter`,
     {
       resolve: "gatsby-plugin-local-search",
       options: {
@@ -131,5 +130,6 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    `gatsby-plugin-twitter`,
   ],
 }
