@@ -4,7 +4,7 @@ date: 2021-07-12T20:01:52.320Z
 title: "Weekly Summary: 7/4 - 7/10"
 description: My Journey to a Web Developer between 7/4/21 and 7/10/21
 ---
-![](../assets/blog-post-card.jpg)
+![Weekly Summary: 7/4 - 7/10](../assets/blog-post-card.jpg "Weekly Summary: 7/4 - 7/10")
 
 Welcome to the 3rd installment in my "Weekly Summary" series where I provide quick recaps for what I worked on the previous week to help keep myself accountable.
 
@@ -41,7 +41,7 @@ Before that, however, I got in some studying React. Not a very productive night 
 
 Thursday was fun! I got new switches for my mechanical keyboard so I installed those before diving into studying React.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I can&#39;t recommend this enough to people learning anything in the world - in fact this method of learning has roots in my previous career as a musician. <br><br>Sure what you might be learning is different but knowing HOW to learn new things is a transferable skill - don&#39;t lose it!</p>&mdash; Ryan Furrer (@TheRyanFurrer) <a href="https://twitter.com/TheRyanFurrer/status/1413276587156549632?ref_src=twsrc%5Etfw">July 8, 2021</a></blockquote>
+![@TheRyanFurrer | July 8th, 2021 I just went back 3.5 sections in this React course I'm working through - why? Because I want to truly KNOW and UNDERSTAND what I am learning and the fact that I took a few weeks off means that I might not remember things I had learned before. I can't recommend this enough to people learning anything in the world - in fact this method of learning has roots in my previous career as a musician. Sure, what you might be learning is different but knowing HOW to learn new things is a transferable skill - don't lose it!](../assets/tweet-7.8.21.png "Tweet on learning")
 
 ## Friday, July 9th
 
