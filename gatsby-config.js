@@ -130,14 +130,5 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
-    {
-      resolve: "gatsby-transformer-remark",
-      options: {
-        plugins: ["@weknow/gatsby-remark-twitter"],
-        options: {
-          theme: 'dark',
-        }
-      }
-    }
   ],
 }
