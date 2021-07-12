@@ -130,12 +130,11 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
-    `gatsby-plugin-twitter`,
     {
-      resolve: `gatsby-source-filesystem`,
+      resolve: "gatsby-transformer-remark",
       options: {
-        path: `${__dirname}/content`,
-      },
-    },
+        plugins: ["@weknow/gatsby-remark-twitter"]
+      }
+    }
   ],
 }
