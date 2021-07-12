@@ -41,7 +41,7 @@ Before that, however, I got in some studying React. Not a very productive night 
 
 Thursday was fun! I got new switches for my mechanical keyboard so I installed those before diving into studying React.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I can&#39;t recommend this enough to people learning anything in the world - in fact this method of learning has roots in my previous career as a musician. <br><br>Sure what you might be learning is different but knowing HOW to learn new things is a transferable skill - don&#39;t lose it!</p>&mdash; Ryan Furrer (@TheRyanFurrer) <a href="https://twitter.com/TheRyanFurrer/status/1413276587156549632?ref_src=twsrc%5Etfw">July 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I can&#39;t recommend this enough to people learning anything in the world - in fact this method of learning has roots in my previous career as a musician. <br><br>Sure what you might be learning is different but knowing HOW to learn new things is a transferable skill - don&#39;t lose it!</p>&mdash; Ryan Furrer (@TheRyanFurrer) <a href="https://twitter.com/TheRyanFurrer/status/1413276587156549632?ref_src=twsrc%5Etfw">July 8, 2021</a></blockquote>
 
 ## Friday, July 9th
 
