@@ -131,5 +131,12 @@ module.exports = {
       },
     },
     `gatsby-plugin-twitter`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content`,
+        name: '',
+      },
+    },
   ],
 }
