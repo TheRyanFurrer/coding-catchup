@@ -135,7 +135,7 @@ module.exports = {
       options: {
         plugins: ["@weknow/gatsby-remark-twitter"],
         options: {
-          theme: dark
+          theme: 'dark',
         }
       }
     }
