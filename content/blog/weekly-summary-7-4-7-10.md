@@ -41,8 +41,6 @@ Before that, however, I got in some studying React. Not a very productive night 
 
 Thursday was fun! I got new switches for my mechanical keyboard so I installed those before diving into studying React.
 
-{% twitter 1413276585554333702 %}
-
 ![@TheRyanFurrer | July 8th, 2021 I just went back 3.5 sections in this React course I'm working through - why? Because I want to truly KNOW and UNDERSTAND what I am learning and the fact that I took a few weeks off means that I might not remember things I had learned before. I can't recommend this enough to people learning anything in the world - in fact this method of learning has roots in my previous career as a musician. Sure, what you might be learning is different but knowing HOW to learn new things is a transferable skill - don't lose it!](../assets/tweet-7.8.21.png "Tweet on learning")
 
 ## Friday, July 9th
