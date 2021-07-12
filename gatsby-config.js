@@ -133,7 +133,10 @@ module.exports = {
     {
       resolve: "gatsby-transformer-remark",
       options: {
-        plugins: ["@weknow/gatsby-remark-twitter"]
+        plugins: ["@weknow/gatsby-remark-twitter"],
+        options: {
+          theme: dark
+        }
       }
     }
   ],
