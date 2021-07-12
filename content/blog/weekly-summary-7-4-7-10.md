@@ -2,10 +2,10 @@
 path: weekly-summary-7-4-7-10
 date: 2021-07-12T20:01:52.320Z
 title: "Weekly Summary: 7/4 - 7/10"
-description: 'Welcome to the 3rd installment in my "Weekly Summary" series where
-  I provide quick recaps for what I worked on the previous week to help keep
-  myself accountable. '
+description: My Journey to a Web Developer between 7/4/21 and 7/10/21
 ---
+![](../assets/blog-post-card.jpg)
+
 Welcome to the 3rd installment in my "Weekly Summary" series where I provide quick recaps for what I worked on the previous week to help keep myself accountable.
 
 First, let's go over my weekly schedule:
@@ -41,7 +41,7 @@ Before that, however, I got in some studying React. Not a very productive night 
 
 Thursday was fun! I got new switches for my mechanical keyboard so I installed those before diving into studying React.
 
-`<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I can&#39;t recommend this enough to people learning anything in the world - in fact this method of learning has roots in my previous career as a musician. <br><br>Sure what you might be learning is different but knowing HOW to learn new things is a transferable skill - don&#39;t lose it!</p>&mdash; Ryan Furrer (@TheRyanFurrer) <a href="https://twitter.com/TheRyanFurrer/status/1413276587156549632?ref_src=twsrc%5Etfw">July 8, 2021</a></blockquote>`
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I can&#39;t recommend this enough to people learning anything in the world - in fact this method of learning has roots in my previous career as a musician. <br><br>Sure what you might be learning is different but knowing HOW to learn new things is a transferable skill - don&#39;t lose it!</p>&mdash; Ryan Furrer (@TheRyanFurrer) <a href="https://twitter.com/TheRyanFurrer/status/1413276587156549632?ref_src=twsrc%5Etfw">July 8, 2021</a></blockquote>
 
 ## Friday, July 9th
 
