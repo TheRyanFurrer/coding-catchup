@@ -28,7 +28,7 @@ v2 was built about 6 months after the "completion" of v1. I learned a lot in thi
 
 v3 was recently completed and announced to the world on 7/2/21, which is *quite some* time since August 2019. A lot has happened over the years, and I will not make excuses for my insufficient progress... I was simply not disciplined enough to do the work that needs to be done to change careers as I want. 
 
-<div><blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/3 🧵 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/LearnInPublic?src=hash&amp;ref_src=twsrc%5Etfw">#LearnInPublic</a> <br>Day 15/100<br><br>My new portfolio site is live! Please visit it at <a href="https://t.co/sRNj6LfZ5N">https://t.co/sRNj6LfZ5N</a> and let me know what you think - be honest.<br><br>Built simply with <a href="https://twitter.com/hashtag/HTML?src=hash&amp;ref_src=twsrc%5Etfw">#HTML</a> and <a href="https://twitter.com/hashtag/CSS?src=hash&amp;ref_src=twsrc%5Etfw">#CSS</a> (SASS) because why not? <a href="https://t.co/DF8eJCXuAU">https://t.co/DF8eJCXuAU</a></p>&mdash; Ryan Furrer (@TheRyanFurrer) <a href="https://twitter.com/TheRyanFurrer/status/1411129302662402052?ref_src=twsrc%5Etfw">July 3, 2021</a></blockquote></div>
+![Screenshot of Tweet announcing new portfolio](../assets/tweet-screen-shot.svg "Made using tweetpik.com")
 
 ## The Tech Stack
 
